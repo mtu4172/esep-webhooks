@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\documents\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj": {}
+    "C:\\Users\\micha\\documents\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\documents\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj": {
+    "C:\\Users\\micha\\documents\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\documents\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\documents\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\Users\\micha\\documents\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\Users\\micha\\documents\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\documents\\esep-webhooks\\esepwebhook\\src\\esepwebhook\\obj\\",
+        "outputPath": "C:\\Users\\micha\\documents\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.1, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
